@@ -1,0 +1,37 @@
+{
+  "name": "contra-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "rm -rf .next && next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export",
+    "deploy": "next build && next export && npx thirdweb@latest upload out"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "autoprefixer": "^10.4.14",
+    "next": "13.4.1",
+    "next-seo": "^6.1.0",
+    "postcss": "^8.4.25",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwind-merge": "^1.12.0",
+    "tailwindcss": "^3.3.2",
+    "tailwindcss-animate": "^1.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "20.1.1",
+    "@types/react": "18.2.6",
+    "@types/react-dom": "18.2.4",
+    "eslint": "8.40.0",
+    "eslint-config-next": "13.4.1",
+    "prettier": "^2.7.1",
+    "prettier-plugin-tailwindcss": "^0.2.8",
+    "tailwindcss-safe-area": "^0.2.2",
+    "typescript": "5.0.4"
+  }
+}

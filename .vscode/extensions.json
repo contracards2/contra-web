@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "christian-kohler.path-intellisense",
+    "Orta.vscode-jest",
+    "esbenp.prettier-vscode",
+    "prisma.prisma",
+    "graphql.vscode-graphql"
+  ]
+}
