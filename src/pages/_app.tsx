@@ -107,7 +107,10 @@ function MyApp({ Component, pageProps }: AppProps) {
                 {'Twitter'}
               </a>{' '}
               <a target="_blank" href="https://discord.gg/GQXTjxXsmn" style={{ color: 'pink' }}>
-                {'Discord '}
+                {'Discord'}
+              </a>{' '}
+              <a target="_blank" href="https://github.com/orgs/contracards/repositories" style={{ color: 'pink' }}>
+                {'Github'}
               </a>
               <br></br>
               <br></br>
