@@ -32,17 +32,14 @@ function Readme() {
           <div style={{ fontSize: '220%' }} className="text-green"></div>
         </div>
         <div>
-          <div className="yellow-text pb-10 pt-12 text-sm text-white sm:text-base md:text-lg lg:text-xl xl:text-2xl">
-            <span className="text-yellow">INTRO: WHY ARE WE DOING THIS?</span>
+          <div className="yellow-text pb-6 pt-12 text-sm text-white sm:text-base md:text-lg lg:text-xl xl:text-2xl">
+            <span className="text-yellow">WHY ARE WE DOING THIS?</span>
           </div>
           <p className="pb-6">
-            In the wild world of crypto, where everything&apos;s a whirlwind, it&apos;s clear that despite the
-            groundbreaking role NFTs play in reshaping the digital ownership paradigm, assets are still confined to
-            their original silos.
-            <br />
-            As widely recognized, most Digital Collectibles are just there, lacking any substantial utility. <br />
-            <br />
-            <span className="text-green"> Contra dares to unlock a new realm of degenerancy for our JPEGs.</span>
+            Despite the groundbreaking role NFTs play in reshaping digital ownership. It&apos;s widely recognized that
+            most assets are confined within echo chambers and lack substantial utility.
+            <br /> <br />
+            <span className="text-green"> Let&apos;s unlock a new realm of degeneracy for our JPEGs.</span>
           </p>
         </div>
         <hr className="golden"></hr>
