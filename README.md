@@ -4,7 +4,7 @@
 
 Contra Web built with Next.js.
 
-## Getting Started
+## Getting Started.
 
 Before you begin, make sure you have [asdf](https://asdf-vm.com/) installed as your version manager. This project uses Node.js, and asdf will help manage the Node.js version specified in the `.tool-versions` file.
 
