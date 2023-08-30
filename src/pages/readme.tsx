@@ -58,8 +58,8 @@ function Readme() {
           Cards come empty and can be leveled up through matches.
           <br />
           <br />
-          This strategic fusion of ownership and competition not only drives excitement but also opens an appealing
-          investment opportunity.
+          This strategic fusion of ownership and competition drives excitement while opening an appealing investment
+          opportunity.
         </p>
         <br />
         <div className="ml-16 mr-16 flex flex-wrap">
@@ -89,22 +89,27 @@ function Readme() {
         </div>
         <br />
         <p>
-          This unique integration of NFTs as inputs for playable cards not only adds depth and personalization to the
-          gameplay, but also leverages form existing web3 natives clusters.
+          The integration of NFTs as inputs for playable cards enriches the gameplay with depth and personalization,
+          while also connecting with existing web3 communities for adoption.
         </p>
         <p className="pb-4 pt-4">
           On the other hand, Contra uses decentralized finance technology to raise funds and establish a sustainable
           ecosystem.
+          <div className="flex flex-wrap justify-center pb-2 pt-2 md:pl-12 md:pr-12">
+            {/* eslint-disable-next-line @next/next/no-img-element*/}
+            <img
+              src="roadmap.png"
+              alt="Image 2"
+              className="w-mid mx-auto h-auto md:block"
+              style={{ imageRendering: 'auto' }}
+            />
+          </div>
           <br />
-          <br />
-          The majority of the generated income will be allocated to reward holders, players, and community initiatives,
-          ensuring a fair and prosperous environment for all participants.
+          The majority of the income will be allocated to reward holders, players, and community initiatives, ensuring a
+          fair and prosperous environment for all participants.
         </p>
         <br />
-        <div className="flex flex-wrap pb-2 pt-2 md:pl-12 md:pr-12">
-          {/* eslint-disable-next-line @next/next/no-img-element*/}
-          <img src="roadmap.png" alt="Image 2" className="h-auto w-full md:block" style={{ imageRendering: 'auto' }} />
-        </div>
+
         <hr className="golden"></hr>
         <div className="text-right">
           <div className="yellow-text  pb-10 pt-12 text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl">
