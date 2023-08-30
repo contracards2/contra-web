@@ -89,8 +89,8 @@ function Readme() {
         </div>
         <br />
         <p>
-          The integration of NFTs as inputs for playable cards enriches the gameplay with depth and personalization,
-          while also connecting with existing web3 communities for adoption.
+          The integration of NFTs as inputs for playable cards enriches the gameplay with profound personalization,
+          while also linking us to existing web3 communities for widespread adoption.
         </p>
         <p className="pb-4 pt-4">
           On the other hand, Contra uses decentralized finance technology to raise funds and establish a sustainable
