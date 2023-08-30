@@ -34,8 +34,9 @@ function Readme() {
             <span className="text-yellow">INTRO: WHY ARE WE DOING THIS?</span>
           </div>
           <p className="pb-6">
-            In the wild world of crypto, where everything's a whirlwind, it's clear that despite the groundbreaking role
-            NFTs play in reshaping the digital ownership paradigm, assets are still confined to their original silos.
+            In the wild world of crypto, where everything&apos;s a whirlwind, it&apos;s clear that despite the
+            groundbreaking role NFTs play in reshaping the digital ownership paradigm, assets are still confined to
+            their original silos.
             <br />
             As widely recognized, most Digital Collectibles are just there, lacking any substantial utility. <br />
             <br />
@@ -158,8 +159,8 @@ function Readme() {
         </div>
 
         <p>
-          In the <strong>early stages</strong>, it's a <strong>head-to-head clash</strong>: Player 1 with 1 Card v/s
-          Player 2 with 1 Card.
+          In the <strong>early stages</strong>, it&apos;s a <strong>head-to-head clash</strong>: Player 1 with 1 Card
+          v/s Player 2 with 1 Card.
           <br />
           Turns are taken for actions, with two dice in the middle to determine the effectiveness of most moves, adding
           a thrilling gambling zest.
@@ -171,12 +172,12 @@ function Readme() {
         </p>
         <p>
           <br />
-          To crank things up, we're diving into upcoming versions to cook up even juicier clashes – think 3 cards per
-          player and beyond...
+          To crank things up, we&apos;re diving into upcoming versions to cook up even juicier clashes – think 3 cards
+          per player and beyond...
         </p>
         <br />
         <p>
-          We're <strong>continuously adapting</strong> through AI simulations, teaming up with{' '}
+          We&apos;re <strong>continuously adapting</strong> through AI simulations, teaming up with{' '}
           <strong>pro gamers</strong> from referenced games to explore diverse
           <strong> balance technics</strong>.
         </p>
