@@ -1,4 +1,3 @@
-
 import { DefaultSeo } from 'next-seo';
 import type { AppProps } from 'next/app';
 import Link from 'next/link';
@@ -75,11 +74,12 @@ function Home() {
         <div className=" rpgui-container framed-golden flex w-full flex-col gap-4 rounded-xl p-12 lg:border lg:border-gray-400 lg:dark:border-gray-800">
           <div className="text-left">
             <p>
-              <span>Contra</span> reads the NFT collection information to generate dynamic stats into the playing cards.
+              <span>Contra</span> analyzes the NFT collection data to generate dynamic stats into the playing cards;
             </p>
             <p>
+              For the&nbsp;
               <span style={{ color: 'red' }}>HP</span> / <span style={{ color: 'blue' }}>Attack</span> /{' '}
-              <span style={{ color: 'green' }}>Defense</span>
+              <span style={{ color: 'green' }}>Defense</span> Values.
             </p>
             <br />
             <div>

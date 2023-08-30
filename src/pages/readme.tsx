@@ -155,6 +155,7 @@ function Readme() {
           </a>
         </div>
         <div style={{ fontSize: '220%' }} className="yellow-text pb-4 pt-5">
+          <br />
           <span className="text-green">GAMEPLAY</span>
         </div>
 
@@ -162,10 +163,38 @@ function Readme() {
           In the <strong>early stages</strong>, it&apos;s a <strong>head-to-head clash</strong>: Degen 1 with 1 Card v/s
           Degen 2 with 1 Card.
           <br />
+          <div className="pt-8 text-left">
+            <span>Contra</span> analyzes the NFT collection data to generate dynamic stats into the playing cards;
+            <br />
+            <p>
+              For the&nbsp;
+              <span style={{ color: 'red' }}>HP</span> / <span style={{ color: 'blue' }}>Attack</span> /{' '}
+              <span style={{ color: 'green' }}>Defense</span> Values.
+            </p>
+            <br />
+            <div>
+              <p className="text-yellow">Relevant Inputs:</p>
+            </div>
+          </div>
+          <div className="text-left">
+            <ul style={{ fontSize: '0.9rem' }}>
+              <li>- Collection Floor Price</li>
+              <li>- Collection Volume</li>
+              <li>- Unique holders</li>
+              <li>- Number of items player holds from the same Collection</li>
+              <li>- Rarity</li>
+              <li>- Time of the wallet holding the item</li>
+            </ul>
+          </div>
+        </p>
+        <br />
+        <p>
           Turns are taken for actions, with two dices in the middle to determine the effectiveness of most moves, adding
           a thrilling gambling zest.
         </p>
         <p>
+          <br />
+          <hr className="golden"></hr>
           <br />
           You will surely find references from <strong>Magic the Gathering</strong>/ <strong>Pokemon Cards</strong>/{' '}
           <strong>Hearthstone</strong>/ <strong>Texas Holdem</strong> among other <strong>beloved classics</strong>.
@@ -317,6 +346,8 @@ function Readme() {
           <img src="dist.png" alt="Image 2" className=" h-auto w-full md:block" style={{ imageRendering: 'auto' }} />
         </div>
         <div style={{ fontSize: '220%' }} className="yellow-text pb-10 pt-12">
+          <hr className="golden"></hr>
+          <br />
           <span className="text-green">SUMMARY</span>
         </div>
         <p>
@@ -330,6 +361,9 @@ function Readme() {
           The tactical go-to-market strategy, coupled with progressive edition releases, fosters early adoption, while
           fund allocation ensures substantial community rewards, sustainable growth, continued development, and expanded
           marketing and growth efforts.
+          <br />
+          <br />
+          <span className="text-yellow">Ready to roll? </span> Links Bellow.
         </p>
       </div>
     </>
