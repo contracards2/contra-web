@@ -101,7 +101,7 @@ function MyApp({ Component, pageProps }: AppProps) {
             <Component {...pageProps} />
 
             <div className="inner rpgui-container framed container-media rpgui-center" style={{ position: 'relative' }}>
-              <h1 style={{ fontSize: '145%' }}>Stay tuned</h1>
+              <h1 style={{ fontSize: '145%' }}>Get Involved</h1>
               <br></br>
               <a target="_blank" href="https://twitter.com/contracards" style={{ color: 'pink' }}>
                 {'Twitter'}

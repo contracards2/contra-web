@@ -159,20 +159,20 @@ function Readme() {
         </div>
 
         <p>
-          In the <strong>early stages</strong>, it&apos;s a <strong>head-to-head clash</strong>: Player 1 with 1 Card
-          v/s Player 2 with 1 Card.
+          In the <strong>early stages</strong>, it&apos;s a <strong>head-to-head clash</strong>: Degen 1 with 1 Card v/s
+          Degen 2 with 1 Card.
           <br />
-          Turns are taken for actions, with two dice in the middle to determine the effectiveness of most moves, adding
+          Turns are taken for actions, with two dices in the middle to determine the effectiveness of most moves, adding
           a thrilling gambling zest.
         </p>
         <p>
           <br />
-          You will for sure find references from: <strong>Magic the Gathering</strong> / <strong>Pokemon Cards</strong>{' '}
-          / <strong>Hearthstone</strong> / <strong>Texas Holdem</strong> among other <strong>beloved classics</strong>.
+          You will surely find references from <strong>Magic the Gathering</strong>/ <strong>Pokemon Cards</strong>/{' '}
+          <strong>Hearthstone</strong>/ <strong>Texas Holdem</strong> among other <strong>beloved classics</strong>.
         </p>
         <p>
           <br />
-          To crank things up, we&apos;re diving into upcoming versions to cook up even juicier clashes – think 3 cards
+          To crank things up, we&apos;re diving into upcoming versions to cook up even juicier clashes– think 3 cards
           per player and beyond...
         </p>
         <br />
