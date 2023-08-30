@@ -20,7 +20,9 @@ function Readme() {
   return (
     <>
       <div className="inner rpgui-container framed readme mb-2" style={{ position: 'relative' }}>
+        <img src="./contralogo_emoji.gif" alt="Image" width={128} className="float-left mr-4" />
         <br></br>
+
         <div className="text-right">
           <div style={{ fontSize: '300%' }}>CONTRA</div>
           <br></br>
