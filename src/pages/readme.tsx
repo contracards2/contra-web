@@ -106,7 +106,7 @@ function Readme() {
           </div>
           <br />
           The majority of the income will be allocated to reward holders, players, and community initiatives, ensuring a
-          fair and prosperous environment for all participants.
+          fair and prosperous environment.
         </p>
         <br />
 
