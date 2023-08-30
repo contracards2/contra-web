@@ -96,8 +96,11 @@ function Readme() {
         <p className="pb-4 pt-4">
           On the other hand, Contra uses decentralized finance technology to raise funds and establish a sustainable
           ecosystem.
-          <br />
-          <br />
+        </p>
+        <div className="flex items-center justify-center">
+          <img src="./contralogo_emoji.gif" alt="Image" width={240} />
+        </div>
+        <p className="pb-4 pt-4">
           The majority of the generated income will be allocated to reward holders, players, and community initiatives,
           ensuring a fair and prosperous environment for all participants.
         </p>
