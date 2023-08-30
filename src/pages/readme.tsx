@@ -25,7 +25,7 @@ function Readme() {
           <div style={{ fontSize: '300%' }}>CONTRA</div>
           <br></br>
           <br></br>
-          <div className="text-green text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl">CLASH OF DEGENES</div>
+          <div className="text-green text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl">CLASH OF DEGENS</div>
 
           <div style={{ fontSize: '220%' }} className="text-green"></div>
         </div>
@@ -34,11 +34,12 @@ function Readme() {
             <span className="text-yellow">INTRO: WHY ARE WE DOING THIS?</span>
           </div>
           <p className="pb-6">
-            Metaverse and Web3 originally promised seamless interplay across diverse virtual landscapes. However,
-            despite the foundational role of NFTs in this movement, we are still confined into digital silos, limiting
-            assets to their birthplace ecosystems. <br />
+            In the wild world of crypto, where everything's a whirlwind, it's clear that despite the groundbreaking role
+            NFTs play in reshaping the digital ownership paradigm, assets are still confined to their original silos.
             <br />
-            <span className="text-green"> Contra dares to unlock a new Cross-Collection use case for our JPEGs.</span>
+            As widely recognized, most Digital Collectibles are just there, lacking any substantial utility. <br />
+            <br />
+            <span className="text-green"> Contra dares to unlock a new realm of degenerancy for our JPEGs.</span>
           </p>
         </div>
         <hr className="golden"></hr>
@@ -51,11 +52,16 @@ function Readme() {
           CONTRA: CLASH OF DEGENS
         </div>
         <p>
-          Contra&apos;s fun & innovative approach revolves around integrating NFTs as Cross-Collection pluggable
-          elements for on-chain playing cards within a Degen vs Degen game. By leveraging their own NFTs, players can
-          enhance their competitive experience, strategically utilize their esteemed assets, and further engage with the
-          Contra ecosystem.
+          In Contra degens will plug their assets from multiple collections into NFT Contra Cards to battle each other.{' '}
+          <br />
+          <br />
+          Cards come empty and can be leveled up through matches.
+          <br />
+          <br />
+          This strategic fusion of ownership and competition not only drives excitement but also opens an appealing
+          investment opportunity.
         </p>
+        <br />
         <div className="ml-16 mr-16 flex flex-wrap">
           <div className="w-full xs:p-2 md:w-1/3 lg:p-4">
             {/* eslint-disable-next-line @next/next/no-img-element*/}
@@ -75,27 +81,31 @@ function Readme() {
               style={{ imageRendering: 'auto' }}
             />
           </div>
+
           <div className="w-full xs:p-2 md:w-1/3 lg:p-4">
             {/* eslint-disable-next-line @next/next/no-img-element*/}
             <img src="example_card_3.png" alt="Image 3" className="h-auto w-full" style={{ imageRendering: 'auto' }} />
           </div>
         </div>
+        <br />
         <p>
           This unique integration of NFTs as inputs for playable cards not only adds depth and personalization to the
-          gameplay, but also leverages existing web3 clusters.
+          gameplay, but also leverages form existing web3 natives clusters.
         </p>
         <p className="pb-4 pt-4">
-          On the other hand, Contra leverages decentralized finance technology to raise funds and establish a robust
-          ecosystem. The majority of the generated income will be allocated to rewarding holders, players, and community
-          initiatives, ensuring a fair and prosperous environment for all participants.
+          On the other hand, Contra uses decentralized finance technology to raise funds and establish a sustainable
+          ecosystem.
+          <br />
+          <br />
+          The majority of the generated income will be allocated to reward holders, players, and community initiatives,
+          ensuring a fair and prosperous environment for all participants.
         </p>
+        <br />
         <div className="flex flex-wrap pb-2 pt-2 md:pl-12 md:pr-12">
           {/* eslint-disable-next-line @next/next/no-img-element*/}
           <img src="roadmap.png" alt="Image 2" className="h-auto w-full md:block" style={{ imageRendering: 'auto' }} />
         </div>
-
         <hr className="golden"></hr>
-
         <div className="text-right">
           <div className="yellow-text  pb-10 pt-12 text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl">
             <span className="text-yellow">HOW WE DOING IT?</span>
@@ -104,7 +114,6 @@ function Readme() {
         <div className="text-green  pb-8 text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl">
           FEW TECHNICAL POINTS
         </div>
-
         <p>
           Contra cards are deployed into the Ethereum network as ERC-721 tokens. The process of plugging and swapping
           each NFT&apos;s representation into the card occurs off-chain.
@@ -117,15 +126,12 @@ function Readme() {
         <a className="text-white" href="https://github.com/offshoredao/poc-crossitem-dnft" target={'_blank'}>
           Previous POC by the team
         </a>
-
         <div className="pb-8 pt-8 text-center">CARD BUILDER v0.2</div>
-
         <div className="flex flex-wrap pb-2 pt-2 md:pl-12 md:pr-12">
           {/* eslint-disable-next-line @next/next/no-img-element*/}
           <img src="builder.png" alt="Image 2" className=" h-auto w-full md:block" style={{ imageRendering: 'auto' }} />
         </div>
         <div className="pb-8 pt-8 text-center">CARD BUILDER v0.3</div>
-
         <div className="flex flex-wrap pb-2 pt-2 md:pl-12 md:pr-12">
           {/* eslint-disable-next-line @next/next/no-img-element*/}
           <img
@@ -136,7 +142,6 @@ function Readme() {
           />
         </div>
         <div className="pb-8 pt-8 text-center">TESTNET COLLECTION GOERLI ON OPENSEA:</div>
-
         <div className="flex flex-wrap pb-2 pt-2 text-center md:pl-12 md:pr-12">
           {/* eslint-disable-next-line @next/next/no-img-element*/}
           <img src="os.png" alt="Image 2" className=" h-auto w-full md:block" style={{ imageRendering: 'auto' }} />
@@ -148,21 +153,48 @@ function Readme() {
             Link to testnet Opensea
           </a>
         </div>
-
-        <div style={{ fontSize: '220%' }} className="yellow-text pb-10 pt-12">
+        <div style={{ fontSize: '220%' }} className="yellow-text pb-4 pt-5">
           <span className="text-green">GAMEPLAY</span>
         </div>
 
-        <p>Inspirations from: Magic the Gathering / Pokemon Cards / Hearthstone / Chess among others.</p>
-        <p className="pb-6 pt-6">First stage: 1 Player - 1 Cards v/s 1 Player - 1 Cards</p>
         <p>
-          We will begin with a simple and continuous adaptation. Currently, we are conducting extensive AI-driven
-          simulations, in collaboration with professional players from the referenced games, to explore numerous
-          scenarios.
+          In the <strong>early stages</strong>, it's a <strong>head-to-head clash</strong>: Player 1 with 1 Card v/s
+          Player 2 with 1 Card.
+          <br />
+          Turns are taken for actions, with two dice in the middle to determine the effectiveness of most moves, adding
+          a thrilling gambling zest.
+        </p>
+        <p>
+          <br />
+          You will for sure find references from: <strong>Magic the Gathering</strong> / <strong>Pokemon Cards</strong>{' '}
+          / <strong>Hearthstone</strong> / <strong>Texas Holdem</strong> among other <strong>beloved classics</strong>.
+        </p>
+        <p>
+          <br />
+          To crank things up, we're diving into upcoming versions to cook up even juicier clashes – think 3 cards per
+          player and beyond...
+        </p>
+        <br />
+        <p>
+          We're <strong>continuously adapting</strong> through AI simulations, teaming up with{' '}
+          <strong>pro gamers</strong> from referenced games to explore diverse
+          <strong> balance technics</strong>.
+        </p>
+        <br />
+        <p>
+          <strong>Deeper gameplay discussions</strong> are taking place on our{' '}
+          <a
+            href="https://discord.gg/6pAtFpHuPX"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ fontSize: 'smaller' }}
+          >
+            Discord
+          </a>
+          . <strong>Jump in!</strong>
         </p>
 
         <div className="pb-8 pt-8 text-center">Battlefield Draft</div>
-
         <div className="flex flex-wrap pb-2 pt-2 text-center md:pl-12 md:pr-12">
           <div className="w-full ">
             {/* eslint-disable-next-line @next/next/no-img-element*/}
@@ -174,26 +206,23 @@ function Readme() {
             />
           </div>
         </div>
-
         <div className="pb-8 pt-8 text-center">Battlefield v.0.1.3</div>
-
         <div className="flex flex-wrap pb-2 pt-2 text-center md:pl-12 md:pr-12">
           <div className="w-full ">
             {/* eslint-disable-next-line @next/next/no-img-element*/}
             <img src="bf.png" alt="Image 2" className=" h-auto w-full md:block" style={{ imageRendering: 'auto' }} />
           </div>
         </div>
-
         <div className="yellow-text  pb-10 pt-12 text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl">
           <span className="text-green">COMMUNITY BUILDING</span>
         </div>
-
         <p>
           We will carefully select and integrate relevant collections in a deliberate order, considering each case
-          individually. We may also collaborate with founders and teams to streamline the onboarding process and capture
-          the attention of their community members effectively.
+          individually. <br />
+          <br />
+          Looking to collaborate with founders and teams to streamline the onboarding process and capture the attention
+          of their community members effectively.
         </p>
-
         <div className="flex flex-wrap pb-4 pt-4 text-center md:pl-12 md:pr-12">
           {/* eslint-disable-next-line @next/next/no-img-element*/}
           <img
@@ -203,12 +232,10 @@ function Readme() {
             style={{ imageRendering: 'auto' }}
           />
         </div>
-
         <p className="pb-6 pt-6">
           This process also fuels our socials with continuous content and turns every new collection into an engagement
           and attention opportunity into our ecosystem.
         </p>
-
         <a href="https://twitter.com/contracards/status/1675221308487892995" target={'_blank'}>
           Sample content 1
         </a>
@@ -216,52 +243,49 @@ function Readme() {
         <a href="https://twitter.com/contracards/status/1675894964214022144" target={'_blank'}>
           Sample content 2
         </a>
-
         <div className="yellow-text pb-10 pt-12 text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl">
           <span className="text-green">GO TO MARKET</span>
         </div>
-
         <p>
           Our go-to-market strategy involves a tactical release of three limited edition Card sets, with the initial
-          drops featuring the most scarce and powerful cards for the long run. This approach creates exclusivity and
-          value, generating interest and driving early demand. Further down the road, a more affordable Open Edition
-          will be introduced, designed to broaden participation and cultivate inclusivity among players.
+          drops featuring the most scarce and powerful cards for the long run.
+          <br /> <br />
+          This approach creates exclusivity and value, generating interest and driving early demand.
+          <br />
+          <br /> Further up the road, a more affordable Open Edition will be introduced, designed to broaden
+          participation and cultivate inclusivity among players.
         </p>
-
         <div className="text-green pt-4 text-base">IYKYK Edition</div>
-
         <ul>
-          <li>Supply: 420 Cards</li>
-          <li>Price: 0.12 ETH</li>
-          <li>Max: 5 per Wallet</li>
-          <li>Distribution: Beta-Testers, selected Collections &amp; Brand Champions will get up to -42.0% OFF</li>
+          <li>Supply: 420 Cards.</li>
+          <li>Price: 0.12 ETH.</li>
+          <li>Max: 5 per Wallet.</li>
+          <li>Distribution: Beta-Testers, selected Collections &amp; Brand Champions will get up to -42.0% OFF.</li>
         </ul>
         <div className="text-green pt-4 text-base">Alpha Edition</div>
         <ul>
-          <li>Supply: 2690 Cards</li>
-          <li>Price: 0.069 ETH</li>
-          <li>Max: 7 per Wallet</li>
-          <li>Distribution: IYKYK gets x1 free Mints</li>
+          <li>Supply: 2690 Cards.</li>
+          <li>Price: 0.069 ETH.</li>
+          <li>Max: 7 per Wallet.</li>
+          <li>Distribution: IYKYK gets x1 free Mints.</li>
         </ul>
         <div className="text-green pt-4 text-base">Limited Edition: Silver Lineage</div>
         <ul>
-          <li>Supply: 10000 Cards</li>
-          <li>Price: 0.042 ETH</li>
-          <li>Max: 10 per Wallet</li>
-          <li>Distribution: Alpha edition gets x1 free Mint</li>
+          <li>Supply: 10000 Cards.</li>
+          <li>Price: 0.042 ETH.</li>
+          <li>Max: 10 per Wallet.</li>
+          <li>Distribution: Alpha edition gets x1 free Min.t</li>
         </ul>
         <div className="text-green pt-4 text-base">Open Edition</div>
         <ul>
-          <li>Supply: Unlimited</li>
-          <li>Price: 0.0069 ETH</li>
-          <li>Max: Unlimited</li>
-          <li>Distribution: 48hrs Timeframe | Silver Linage gets x1 free Mint</li>
+          <li>Supply: Unlimited.</li>
+          <li>Price: 0.0069 ETH.</li>
+          <li>Max: Unlimited.</li>
+          <li>Distribution: 48hrs Timeframe | Silver Linage gets x1 free Mint.</li>
         </ul>
-
         <div className="yellow-text pb-10 pt-12 text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl">
           <span className="text-green">FUNDS DISTRIBUTION</span>
         </div>
-
         <p>
           The mint fund allows Contra a solid runway, providing the necessary resources to expand the team and achieve
           long-term success without the constant concern of market conditions.
@@ -296,10 +320,15 @@ function Readme() {
         </div>
         <p>
           <span className="text-yellow">CONTRA: CLASH OF DEGENS</span> breaks new ground by integrating Cross-Collection
-          NFTs into playable cards. Our strategic approach unifies diverse web3 communities, assuring engagement across
-          previously isolated groups. The tactical go-to-market strategy, coupled with progressive edition releases,
-          fosters early adoption, while fund allocation ensures substantial community rewards, sustainable growth,
-          continued development, and expanded marketing and growth efforts.
+          NFTs into playable cards.
+          <br />
+          <br />
+          Our strategic approach unifies diverse web3 communities, assuring engagement across previously isolated
+          groups. <br />
+          <br />
+          The tactical go-to-market strategy, coupled with progressive edition releases, fosters early adoption, while
+          fund allocation ensures substantial community rewards, sustainable growth, continued development, and expanded
+          marketing and growth efforts.
         </p>
       </div>
     </>
