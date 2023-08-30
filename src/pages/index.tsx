@@ -27,7 +27,7 @@ function Home() {
               Welcome
             </p>
             <div className="flex-shrink-0">
-              <img src="./logo_contra/final/contra_100_alph_small_canvas.png" alt="Image" width={72} />
+              <img src="./contralogo_emoji.gif" alt="Image" width={72} />
             </div>
           </div>
 
