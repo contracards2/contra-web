@@ -58,8 +58,8 @@ function Readme() {
           Cards come empty and can be leveled up through matches.
           <br />
           <br />
-          This strategic fusion of ownership and competition drives excitement while opening an appealing investment
-          opportunity.
+          The tactical fusion of ownership and competition drives excitement while opening appealing investment
+          opportunities.
         </p>
         <br />
         <div className="ml-16 mr-16 flex flex-wrap">
@@ -206,13 +206,12 @@ function Readme() {
         </p>
         <br />
         <p>
-          We&apos;re <strong>continuously adapting</strong> through AI simulations, teaming up with{' '}
-          <strong>pro gamers</strong> from referenced games to explore diverse
-          <strong> balance technics</strong>.
+          To explore a diverse range of balance techniques, we are collaborating with the pro gamers, while conducting a
+          high volume of AI simulations.
         </p>
         <br />
         <p>
-          <strong>Deeper gameplay discussions</strong> are taking place on our{' '}
+          <strong>Deeper gameplay discussions</strong> will take place on our{' '}
           <a
             href="https://discord.gg/6pAtFpHuPX"
             target="_blank"
@@ -224,7 +223,7 @@ function Readme() {
           . <strong>Jump in!</strong>
         </p>
 
-        <div className="pb-8 pt-8 text-center">Battlefield Draft</div>
+        <div className="pb-8 pt-8 text-center">First Battlefield Draft</div>
         <div className="flex flex-wrap pb-2 pt-2 text-center md:pl-12 md:pr-12">
           <div className="w-full ">
             {/* eslint-disable-next-line @next/next/no-img-element*/}
@@ -247,8 +246,7 @@ function Readme() {
           <span className="text-green">COMMUNITY BUILDING</span>
         </div>
         <p>
-          We will carefully select and integrate relevant collections in a deliberate order, considering each case
-          individually. <br />
+          We will integrate relevant collections in a deliberate order, considering each case individually. <br />
           <br />
           Looking to collaborate with founders and teams to streamline the onboarding process and capture the attention
           of their community members effectively.
@@ -264,7 +262,7 @@ function Readme() {
         </div>
         <p className="pb-6 pt-6">
           This process also fuels our socials with continuous content and turns every new collection into an engagement
-          and attention opportunity into our ecosystem.
+          and attention opportunity into our network.
         </p>
         <a href="https://twitter.com/contracards/status/1675221308487892995" target={'_blank'}>
           Sample content 1
@@ -277,13 +275,13 @@ function Readme() {
           <span className="text-green">GO TO MARKET</span>
         </div>
         <p>
-          Our go-to-market strategy involves a tactical release of three limited edition Card sets, with the initial
-          drops featuring the most scarce and powerful cards for the long run.
+          Our initial go-to-market involves the release of three limited edition card sets, with the initial IYKYK
+          edition featuring the scarcest and most powerful cards for the long run.
           <br /> <br />
-          This approach creates exclusivity and value, generating interest and driving early demand.
+          This approach drives exclusivity and speculation, generating interest and creating early demand.
           <br />
           <br /> Further up the road, a more affordable Open Edition will be introduced, designed to broaden
-          participation and cultivate inclusivity among players.
+          participation and cultivate inclusivity among fellow degens.
         </p>
         <div className="text-green pt-4 text-base">IYKYK Edition</div>
         <ul>
