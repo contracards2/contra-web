@@ -74,10 +74,8 @@ function Home() {
         <div className=" rpgui-container framed-golden flex w-full flex-col gap-4 rounded-xl p-12 lg:border lg:border-gray-400 lg:dark:border-gray-800">
           <div className="text-left">
             <p>
-              <span>Contra</span> analyzes the NFT collection data to generate dynamic stats into the playing cards;
-            </p>
-            <p>
-              For the&nbsp;
+              <span>Contra</span> analyzes the NFT collection data to generate dynamic stats into the playing cards; For
+              the&nbsp;
               <span style={{ color: 'red' }}>HP</span> / <span style={{ color: 'blue' }}>Attack</span> /{' '}
               <span style={{ color: 'green' }}>Defense</span> Values.
             </p>
@@ -88,12 +86,12 @@ function Home() {
           </div>
           <div className="text-left">
             <ul style={{ fontSize: '0.9rem' }}>
-              <li>- Collection Floor Price</li>
-              <li>- Collection Volume</li>
-              <li>- Unique holders</li>
-              <li>- Number of items player holds from the same Collection</li>
-              <li>- Rarity</li>
-              <li>- Time of the wallet holding the item</li>
+              <li>- Collection Floor Price.</li>
+              <li>- Collection Volume.</li>
+              <li>- Unique holders.</li>
+              <li>- Number of items player holds from the same Collection.</li>
+
+              <li>- Time holding the JPG.</li>
             </ul>
           </div>
         </div>

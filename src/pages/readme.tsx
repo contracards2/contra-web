@@ -96,11 +96,8 @@ function Readme() {
         <p className="pb-4 pt-4">
           On the other hand, Contra uses decentralized finance technology to raise funds and establish a sustainable
           ecosystem.
-        </p>
-        <div className="flex items-center justify-center">
-          <img src="./contralogo_emoji.gif" alt="Image" width={240} />
-        </div>
-        <p className="pb-4 pt-4">
+          <br />
+          <br />
           The majority of the generated income will be allocated to reward holders, players, and community initiatives,
           ensuring a fair and prosperous environment for all participants.
         </p>
@@ -165,17 +162,14 @@ function Readme() {
         <p>
           In the <strong>early stages</strong>, it&apos;s a <strong>head-to-head clash</strong>: Degen 1 with 1 Card v/s
           Degen 2 with 1 Card.
-          <br />
-          <div className="pt-8 text-left">
-            <span>Contra</span> analyzes the NFT collection data to generate dynamic stats into the playing cards;
-            <br />
-            <p>
-              For the&nbsp;
-              <span style={{ color: 'red' }}>HP</span> / <span style={{ color: 'blue' }}>Attack</span> /{' '}
-              <span style={{ color: 'green' }}>Defense</span> Values.
-            </p>
+          <div className="pt-2 text-left">
+            <span>Contra</span> analyzes the NFT collection data to generate dynamic stats into the playing cards; For
+            the&nbsp;
+            <span style={{ color: 'red' }}>HP</span> / <span style={{ color: 'blue' }}>Attack</span> /{' '}
+            <span style={{ color: 'green' }}>Defense</span> Values.
             <br />
             <div>
+              <br />
               <p className="text-yellow">Relevant Inputs:</p>
             </div>
           </div>
@@ -185,8 +179,7 @@ function Readme() {
               <li>- Collection Volume</li>
               <li>- Unique holders</li>
               <li>- Number of items player holds from the same Collection</li>
-              <li>- Rarity</li>
-              <li>- Time of the wallet holding the item</li>
+              <li>- Time holding the JPG.</li>
             </ul>
           </div>
         </p>
