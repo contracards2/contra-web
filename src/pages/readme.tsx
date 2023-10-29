@@ -312,38 +312,7 @@ function Readme() {
           <li>Max: Unlimited.</li>
           <li>Distribution: 48hrs Timeframe | Silver Linage gets x1 free Mint.</li>
         </ul>
-        <div className="yellow-text pb-10 pt-12 text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl">
-          <span className="text-green">FUNDS DISTRIBUTION</span>
-        </div>
-        <p>
-          The mint fund allows Contra a solid runway, providing the necessary resources to expand the team and achieve
-          long-term success without the constant concern of market conditions.
-        </p>
-        <p className="pb-4 pt-4">
-          <span className={'text-green'}>40%</span> of the mint funds will go towards the community treasury, rewarding
-          players and holders through leaderboards, incentive programs, tournaments, and community-driven initiatives.
-        </p>
-        <hr className="golden "></hr>
-        <p className="pb-4 pt-4">
-          We offer more than just rewards and incentives; we will create opportunities and foster an ecosystem that
-          thrives on passion and innovation.
-        </p>
-        <hr className="golden"></hr>
-        <p className="pb-4 pt-4">
-          <span className={'text-green'}>30%</span> will be allocated to the software development and design teams along
-          with operational expenses, ensuring we have the necessary resources for continuous improvement.
-        </p>
-        <p className="pb-4 pt-4">
-          <span className={'text-green'}>20%</span> will be dedicated to marketing initiatives to reach a wider audience
-          and expand our presence.
-        </p>
-        <p className="pb-4 pt-4">
-          <span className={'text-green'}>10%</span> will be earmarked for the founders and advisors.
-        </p>
-        <div className="flex flex-wrap pb-4 pt-4 text-center md:pl-12 md:pr-12">
-          {/* eslint-disable-next-line @next/next/no-img-element*/}
-          <img src="dist.png" alt="Image 2" className=" h-auto w-full md:block" style={{ imageRendering: 'auto' }} />
-        </div>
+
         <div style={{ fontSize: '220%' }} className="yellow-text pb-10 pt-12">
           <hr className="golden"></hr>
           <br />
